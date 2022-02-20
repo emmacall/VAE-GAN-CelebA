@@ -4,7 +4,7 @@
 import sys, getopt
 if sys.version_info < (3,4):
     print('You are running an older version of Python!\n\n',
-          'You should consider updating to Python 3.4.0 or',
+          'You should consider updating to Python 3.6.0 or',
           'higher.\n')
 
 # Now get necessary libraries
